@@ -2,7 +2,7 @@
 
 > Automatically gives a special role to users who have your clan tag in their Discord username.
 
-> Discord kullanıcı adında belirlediğiniz **clan tag** (etiket) varsa otomatik olarak özel rol veren sistem.
+> Discord kullanıcıda belirlediğiniz **clan tag** (etiket) varsa otomatik olarak özel rol veren sistem.
 
 ---
 
@@ -12,13 +12,12 @@
 - ✅ Gives role if username contains the tag
 - ✅ Removes role if tag is removed
 - ✅ Logs actions in a log channel with embeds
-- ✅ Profile picture and timestamp included in embed
+  
 ---------------------------------------------------------------------
 - ✅ Sunucudaki tüm üyeleri tarar  
-- ✅ Kullanıcı adında belirlenen tag varsa rol verir  
+- ✅ Kullanıcıda belirlenen guild tag varsa rol verir  
 - ✅ Tag çıkarılırsa rolü geri alır  
 - ✅ Embed olarak log kanalına bildirim yollar  
-- ✅ Embed'de kullanıcı profil fotoğrafı ve saat bilgisi yer alır
 
 ---
 
